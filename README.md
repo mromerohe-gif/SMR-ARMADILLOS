@@ -1,1 +1,2 @@
 # SMR-ARMADILLOS
+Manuel Romero
